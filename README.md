@@ -1,4 +1,9 @@
 # PlacmentPrep
-DAY 1
-1)SetMatrix
-2)SortColor
+## DAY 1
+- SetMatrix
+- SortColor
+- BestTimeToSellStock
+- NextPermutation
+## DAY 2
+- MergeSortedArray
+- FindDuplicate
